@@ -4,7 +4,7 @@ My name is Merijn and I'm a first-year Software Engineering Student at Codam, a 
 
 ## Here are the projects I am currently working on:
 ↩️ [get_next_line](https://github.com/merijnjong/get_next_line) - Write a function that returns a line read from a
-file descriptor <br />
+file descriptor. <br />
 🖨️ [ft_printf](https://github.com/merijnjong/ft_printf) - Recode printf function in C. <br />
 
 ## Here are the latest projects I have finished:
