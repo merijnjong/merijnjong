@@ -5,9 +5,8 @@ My name is Merijn and I'm a first-year Software Engineering Student at Codam, a 
 ## Here are the projects I am currently working on:
 ↩️ [get_next_line](https://github.com/merijnjong/get_next_line) - Write a function that returns a line read from a
 file descriptor. <br />
-🖨️ [ft_printf](https://github.com/merijnjong/ft_printf) - Recode printf function in C. <br />
 
 ## Here are the latest projects I have finished:
-
+🖨️ [ft_printf](https://github.com/merijnjong/ft_printf) - Recode printf function in C. <br />
 📚 [libft](https://github.com/merijnjong/libft) - Write your own function library in C. <br />
 🏊‍♂️ [selection_piscine_42](https://github.com/merijnjong/selection_piscine_42) - Intensive selection month to enter School 42. <br />
