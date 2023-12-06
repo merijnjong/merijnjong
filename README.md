@@ -10,3 +10,5 @@ My name is Merijn and I'm a first-year Software Engineering Student at Codam, a 
 🖨️ [ft_printf](https://github.com/merijnjong/ft_printf) - Recode the printf function in C. <br />
 📚 [libft](https://github.com/merijnjong/libft) - Write your own function library in C. <br />
 🏊‍♂️ [selection_piscine_42](https://github.com/merijnjong/selection_piscine_42) - Intensive selection month to enter School 42. <br />
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=merijnjong&theme=default)
