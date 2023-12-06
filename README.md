@@ -11,4 +11,6 @@ My name is Merijn and I'm a first-year Software Engineering Student at Codam, a 
 📚 [libft](https://github.com/merijnjong/libft) - Write your own function library in C. <br />
 🏊‍♂️ [selection_piscine_42](https://github.com/merijnjong/selection_piscine_42) - Intensive selection month to enter School 42. <br />
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=merijnjong&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=merijnjong&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=merijnjong&theme=default)
