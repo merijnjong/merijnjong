@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-My name is Merijn and I'm a first-year Software Engineering Student at Codam. Codam is a coding college based in Amsterdam and part of the 42 Network. I have finished HAVO (senior general secondary education) and I'm currently learning to write in C.
+My name is Merijn and I am a first-year Software Engineering Student at Codam. Codam is a coding college based in Amsterdam and part of the 42 Network. I have finished HAVO (senior general secondary education) and I am currently learning to write in C.
 
 ## 🛠️ Here are the projects I am currently working on:
 🤖 [born2beroot](https://github.com/merijnjong/born2beroot) - Create a machine in VirtualBox and set up your own operating system. <br />
