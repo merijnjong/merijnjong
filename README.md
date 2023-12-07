@@ -13,4 +13,4 @@ My name is Merijn and I'm a first-year Software Engineering Student at Codam, a 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=merijnjong&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=merijnjong&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=merijnjong&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=merijnjong&theme=aura&utcOffset=-1)
