@@ -9,7 +9,7 @@
 ### ↩️ [get_next_line](https://github.com/merijnjong/get_next_line) - Write a function that returns a line read from a file descriptor. <br />
 ### 🖨️ [ft_printf](https://github.com/merijnjong/ft_printf) - Recode the printf function in C. <br />
 ### 📚 [libft](https://github.com/merijnjong/libft) - Write a personalised function library in C. <br />
-### 🏊‍♂️ [selection_piscine_42](https://github.com/merijnjong/selection_piscine_42) - Intensive selection month to enter the School 42 Newtork. <br />
+### 🏊‍♂️ [selection_piscine_42](https://github.com/merijnjong/selection_piscine_42) - Intensive selection month to enter the School 42 Network. <br />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=merijnjong&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=merijnjong&theme=aura)
