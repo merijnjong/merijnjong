@@ -6,10 +6,14 @@
 ### 🤖  [born2beroot](https://github.com/merijnjong/born2beroot) - Create a machine in VirtualBox and set up your own operating system. <br />
 
 ## ✔️ Here are the latest projects I have finished:
-### ↩️  [get_next_line](https://github.com/merijnjong/get_next_line) - Write a function that returns a line read from a file descriptor. <br />
-### 🖨️  [ft_printf](https://github.com/merijnjong/ft_printf) - Recode the printf function in C. <br />
-### 📚  [libft](https://github.com/merijnjong/libft) - Write your own function library in C. <br />
-### 🏊‍♂️  [selection_piscine_42](https://github.com/merijnjong/selection_piscine_42) - Intensive selection month to enter School 42. <br />
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+	
+### ↩️ [get_next_line](https://github.com/merijnjong/get_next_line) - Write a function that returns a line read from a file descriptor.
+### 🖨️ [ft_printf](https://github.com/merijnjong/ft_printf) - Recode the printf function in C.
+### 📚 [libft](https://github.com/merijnjong/libft) - Write your own function library in C.
+### 🏊‍♂️ [selection_piscine_42](https://github.com/merijnjong/selection_piscine_42) - Intensive selection month to enter School 42.
+
+</div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=merijnjong&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=merijnjong&theme=aura)
