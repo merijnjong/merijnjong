@@ -8,7 +8,7 @@
 ## ✔️ Here are the latest projects I have finished:
 ### ↩️ [get_next_line](https://github.com/merijnjong/get_next_line) - Write a function that returns a line read from a file descriptor. <br />
 ### 🖨️ [ft_printf](https://github.com/merijnjong/ft_printf) - Recode the printf function in C. <br />
-### 📚 [libft](https://github.com/merijnjong/libft) - Write your own function library in C. <br />
+### 📚 [libft](https://github.com/merijnjong/libft) - Write a personalised function library in C. <br />
 ### 🏊‍♂️ [selection_piscine_42](https://github.com/merijnjong/selection_piscine_42) - Intensive selection month to enter School 42. <br />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=merijnjong&theme=aura)
