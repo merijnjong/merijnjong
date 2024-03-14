@@ -3,7 +3,8 @@
 ### My name is Merijn and I am a first-year Software Engineering Student at Codam. Codam is a coding college based in Amsterdam and part of the 42 Network. I have finished HAVO (senior general secondary education) and I am currently learning to write in C.
 
 ## 🛠️ Here are the projects I am currently working on:
-### 🎮 [so_long](https://github.com/merijnjong/so_long) - Create a basic 2D game in C.
+###  [push_swap](https://github.com/merijnjong/push_swap) - Write a program in C which sorts integers received as arguments. <br />
+### 🎮 [so_long](https://github.com/merijnjong/so_long) - Create a basic 2D game in C. <br />
 <br />
 
 ## ✔️ Here are the latest projects I have finished:
