@@ -9,7 +9,7 @@
 
 ## ✔️ Here are the latest projects I have finished:
 ### 🤖 [born2beroot](https://github.com/merijnjong/born2beroot) - Create a machine in VirtualBox and set up your own operating system. <br />
-### ↩️ [get_next_line](https://github.com/merijnjong/get_next_line) - Write a function that returns a line read from a file descriptor. <br />
+### ↩️ [get_next_line](https://github.com/merijnjong/get_next_line) - Write a function in C that returns a line read from a file descriptor. <br />
 ### 🖨️ [ft_printf](https://github.com/merijnjong/ft_printf) - Recode the printf function in C. <br />
 ### 📚 [libft](https://github.com/merijnjong/libft) - Write a personalised function library in C. <br />
 ### 🏊‍♂️ [selection_piscine_42](https://github.com/merijnjong/selection_piscine_42) - Selection month to enter the School 42 Network. <br />
