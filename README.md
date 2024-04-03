@@ -7,7 +7,7 @@
 ### 🎮 [so_long](https://github.com/merijnjong/so_long) - Create a basic 2D game in C. <br />
 <br />
 
-## ✔️ Here are the latest projects I have finished:
+## ✅ Here are the latest projects I have finished:
 ### 🤖 [born2beroot](https://github.com/merijnjong/born2beroot) - Create a machine in VirtualBox and set up your own operating system. <br />
 ### ↩️ [get_next_line](https://github.com/merijnjong/get_next_line) - Write a function in C that returns a line read from a file descriptor. <br />
 ### 🖨️ [ft_printf](https://github.com/merijnjong/ft_printf) - Recode the printf function in C. <br />
