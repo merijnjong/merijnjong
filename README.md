@@ -4,10 +4,10 @@
 
 ## 🛠️ Here are the projects I am currently working on:
 ### &nbsp;| [pipex](https://github.com/merijnjong/pipex) - Write a program in C that mimics the usage of UNIX mechanisms with system calls only. <br />
-### 🎮 [so_long](https://github.com/merijnjong/so_long) - Create a basic 2D game in C. <br />
-<br />
 
 ## ✅ Here are the latest projects I have finished:
+### 🎮 [so_long](https://github.com/merijnjong/so_long) - Create a basic 2D game in C. <br />
+<br />
 ### 🔢 [push_swap](https://github.com/merijnjong/push_swap) - Write a program in C which sorts integers received as arguments. <br />
 ### 🤖 [born2beroot](https://github.com/merijnjong/born2beroot) - Create a machine in VirtualBox and set up your own operating system. <br />
 ### ↩️ [get_next_line](https://github.com/merijnjong/get_next_line) - Write a function in C that returns a line read from a file descriptor. <br />
