@@ -3,10 +3,10 @@
 ### My name is Merijn and I am a first-year Software Engineering Student at Codam. Codam is a coding college based in Amsterdam and part of the 42 Network. I have finished HAVO (senior general secondary education) and I am currently learning to write in C.
 
 ## 🛠️ Here are the projects I am currently working on:
-### &nbsp;| [pipex](https://github.com/merijnjong/pipex) - Write a program in C that mimics the usage of UNIX mechanisms with system calls only. <br />
 <br />
 
 ## ✅ Here are the latest projects I have finished:
+### &nbsp;| [pipex](https://github.com/merijnjong/pipex) - Write a program in C that mimics the usage of UNIX mechanisms with system calls only. <br />
 ### 🎮 [so_long](https://github.com/merijnjong/so_long) - Create a basic 2D game in C. <br />
 ### 🔢 [push_swap](https://github.com/merijnjong/push_swap) - Write a program in C which sorts integers received as arguments. <br />
 ### 🤖 [born2beroot](https://github.com/merijnjong/born2beroot) - Create a machine in VirtualBox and set up your own operating system. <br />
