@@ -2,12 +2,12 @@
 
 ### My name is Merijn and I am a 21-year-old, first-year Software Engineering Student at Codam. Codam is a coding college based in Amsterdam and part of the 42 Network. I have finished HAVO (senior general secondary education) and I am currently learning to write in C.<br /><br />Here is how you can reach me:&nbsp;&nbsp; <a href= "https://www.linkedin.com/in/merijn-jong-35b493220/"><img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:merijnjong1@gmail.com"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-## 🛠️ Here are the projects I am currently working on:
+## 🛠️ Projects I am currently working on:
 ### 🐚 [minishell](https://github.com/merijnjong/minishell) - Create a basic shell program in C.
 ### 👴🏼 [philosophers](https://github.com/merijnjong/philosophers) - Write a program that can thread a process in C.
 <br />
 
-## ✅ Here are the latest projects I have finished:
+## ✅ Latest projects I have finished:
 ### ➖ [pipex](https://github.com/merijnjong/pipex) - Write a program in C that mimics the usage of UNIX mechanisms with system calls only. <br />
 ### 🎮 [so_long](https://github.com/merijnjong/so_long) - Create a basic 2D game in C. <br />
 ### 🔢 [push_swap](https://github.com/merijnjong/push_swap) - Write a program in C which sorts integers received as arguments. <br />
