@@ -4,10 +4,10 @@
 
 ## 🛠️ Projects I am currently working on:
 ### 🐚 [minishell](https://github.com/merijnjong/minishell) - Create a basic shell program in C.
-### 👴🏼 [philosophers](https://github.com/merijnjong/philosophers) - Write a program that can thread a process in C.
 <br />
 
 ## ✅ Latest projects I have finished:
+### 👴🏼 [philosophers](https://github.com/merijnjong/philosophers) - Write a program that can thread a process in C.
 ### ➖ [pipex](https://github.com/merijnjong/pipex) - Write a program in C that mimics the usage of UNIX mechanisms with system calls only. <br />
 ### 🎮 [so_long](https://github.com/merijnjong/so_long) - Create a basic 2D game in C. <br />
 ### 🔢 [push_swap](https://github.com/merijnjong/push_swap) - Write a program in C which sorts integers received as arguments. <br />
