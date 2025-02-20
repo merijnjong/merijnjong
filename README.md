@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-### My name is Merijn and I am a 21-year-old, second-year Software Engineering Student at Codam. Codam is a coding college based in Amsterdam and part of the 42 Network. I have finished HAVO (senior general secondary education) and I am currently learning to write in C.<br /><br />Here is how you can reach me:&nbsp;&nbsp; <a href= "https://www.linkedin.com/in/merijn-jong-35b493220/"><img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:merijnjong1@gmail.com"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+### My name is Merijn and I am a 22-year-old, second-year Software Engineering Student at Codam. Codam is a coding college based in Amsterdam and part of the 42 Network. I have finished HAVO (senior general secondary education) and I am currently learning to write in C.<br /><br />Here is how you can reach me:&nbsp;&nbsp; <a href= "https://www.linkedin.com/in/merijn-jong-35b493220/"><img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:merijnjong1@gmail.com"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## 🛠️ Projects I am currently working on:
 ### 👨‍💻 [cpp_01](https://github.com/merijnjong/cpp_01) - C++ Module 01
