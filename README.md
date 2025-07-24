@@ -4,6 +4,7 @@
 
 ## 🛠️ Projects I am currently working on:
 ### 🧊 [cub3d](https://github.com/merijnjong/cub3d) - Using raycasting, make a dynamic view inside a maze in C. <br />
+### 👨‍💻 [cpp_03](https://github.com/merijnjong/cpp_03) - C++ Module 03
 <br />
 
 ## ✅ Latest projects I have finished:
