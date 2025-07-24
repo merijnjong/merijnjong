@@ -4,10 +4,11 @@
 
 ## 🛠️ Projects I am currently working on:
 ### 🧊 [cub3d](https://github.com/merijnjong/cub3d) - Using raycasting, make a dynamic view inside a maze in C. <br />
-### 👨‍💻 [cpp_01](https://github.com/merijnjong/cpp_01) - C++ Module 01
 <br />
 
 ## ✅ Latest projects I have finished:
+### 👨‍💻 [cpp_02](https://github.com/merijnjong/cpp_02) - C++ Module 02
+### 👨‍💻 [cpp_01](https://github.com/merijnjong/cpp_01) - C++ Module 01
 ### 👨‍💻 [cpp_00](https://github.com/merijnjong/cpp_00) - C++ Module 00
 ### 🐚 [minishell](https://github.com/merijnjong/minishell) - Create a basic shell program in C.
 ### 👴🏼 [philosophers](https://github.com/merijnjong/philosophers) - Write a program that can thread a process in C.
